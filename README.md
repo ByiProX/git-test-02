@@ -1,1 +1,3 @@
-# git-test-02
+this is a readme.md file
+
+new lin3
